@@ -1,4 +1,4 @@
-
+#! /usr/bin/python3
 from termcolor import colored
 
 print (colored("********************Domain To IP Convertor****************",'green'))
